@@ -1,14 +1,14 @@
 # Compiled class file
 *.class
 
-# IntelliJ IDEA
-*.iml
-*.idea
-
 # Log file
 *.log
 
+# IntelliJ IDEA
+*.iml
+*.idea
 **/target
+**/src/main/resources
 
 # BlueJ files
 *.ctxt
